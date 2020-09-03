@@ -17,7 +17,7 @@ npm install
 Using serve command to start your server with hot reloading.
 
 ```shell
-npm run watch
+npm run serve
 ```
 
 ### Production
