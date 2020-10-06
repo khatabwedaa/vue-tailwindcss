@@ -10,6 +10,10 @@ module.exports = {
       },
     },
   },
+  future: {
+    purgeLayersByDefault: true,
+    removeDeprecatedGapUtilities: true,
+  },
   variants: {},
   plugins: [
     require('@tailwindcss/custom-forms')
